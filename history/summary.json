@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Stormkit Webpage",
+    "url": "https://www.stormkit.io/",
+    "icon": "https://favicons.githubusercontent.com/www.stormkit.io",
+    "slug": "stormkit-webpage",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 766,
+    "timeDay": 766,
+    "timeWeek": 766,
+    "timeMonth": 766,
+    "timeYear": 766,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Stormkit Docs",
+    "url": "https://www.stormkit.io/docs",
+    "icon": "https://favicons.githubusercontent.com/www.stormkit.io",
+    "slug": "stormkit-docs",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 252,
+    "timeDay": 252,
+    "timeWeek": 252,
+    "timeMonth": 252,
+    "timeYear": 252,
+    "dailyMinutesDown": {}
+  }
+]

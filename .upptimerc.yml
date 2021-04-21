@@ -1,0 +1,39 @@
+# Change these first
+owner: eldemcan # Your GitHub organization or username, where this repository lives
+repo: storm-test # The name of this repository
+
+sites:
+  - name: Stormkit Webpage
+    url: https://www.stormkit.io/
+    assignees:
+     - svedova
+  - name: Stormkit Docs
+    url: https://www.stormkit.io/docs
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  theme: light
+  baseUrl: /storm-test
+  favicon: https://www.stormkit.io/favicon.png
+  logoUrl: https://avatars.githubusercontent.com/u/41553612?s=200&v=4
+  name: StormKit
+  introTitle: "Stormkit services"
+  # introMessage: Services
+  navbar:
+    - title: Status
+      href: /
+    - title: Stromkit
+      href: http://stormkit.io/
+    - title: Github
+      href: https://github.com/stormkit-io
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/15 * * * *"
