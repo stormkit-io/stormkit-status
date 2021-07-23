@@ -4,19 +4,19 @@
     "url": "https://www.stormkit.io/",
     "icon": "https://favicons.githubusercontent.com/www.stormkit.io",
     "slug": "stormkit-landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 671,
-    "timeDay": 603,
-    "timeWeek": 604,
+    "timeDay": 656,
+    "timeWeek": 609,
     "timeMonth": 648,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2021-07-23": 1
+      "2021-07-23": 17
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.stormkit.io/docs",
     "icon": "https://favicons.githubusercontent.com/www.stormkit.io",
     "slug": "stormkit-docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 212,
-    "timeWeek": 219,
-    "timeMonth": 216,
-    "timeYear": 218,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 219,
+    "timeDay": 303,
+    "timeWeek": 232,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2021-07-23": 0
+      "2021-07-23": 17
     }
   },
   {
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
-    "timeDay": 421,
-    "timeWeek": 380,
-    "timeMonth": 415,
+    "timeDay": 451,
+    "timeWeek": 386,
+    "timeMonth": 414,
     "timeYear": 432,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 451,
-    "timeDay": 398,
+    "timeDay": 424,
     "timeWeek": 410,
-    "timeMonth": 439,
+    "timeMonth": 438,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2021-07-13": 36
