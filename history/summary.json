@@ -4,10 +4,10 @@
     "url": "https://www.stormkit.io/",
     "icon": "https://favicons.githubusercontent.com/www.stormkit.io",
     "slug": "stormkit-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "93.70%",
-    "uptimeWeek": "99.10%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "99.09%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.93%",
     "time": 670,
@@ -16,7 +16,7 @@
     "timeMonth": 646,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2021-07-24": 73,
+      "2021-07-24": 74,
       "2021-07-23": 17
     }
   },
@@ -25,10 +25,10 @@
     "url": "https://www.stormkit.io/docs",
     "icon": "https://favicons.githubusercontent.com/www.stormkit.io",
     "slug": "stormkit-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "99.12%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.93%",
     "time": 222,
@@ -37,7 +37,7 @@
     "timeMonth": 226,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2021-07-24": 73,
+      "2021-07-24": 74,
       "2021-07-23": 17
     }
   },
@@ -46,7 +46,7 @@
     "url": "https://app.stormkit.io",
     "icon": "https://favicons.githubusercontent.com/app.stormkit.io",
     "slug": "stormkit-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.52%",
     "uptimeWeek": "99.79%",
