@@ -51,11 +51,11 @@
     "icon": "https://favicons.githubusercontent.com/app.stormkit.io",
     "slug": "stormkit-application",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 430,
     "timeDay": 560,
     "timeWeek": 460,
@@ -72,9 +72,9 @@
     "url": "https://api.stormkit.io",
     "icon": "https://favicons.githubusercontent.com/api.stormkit.io",
     "slug": "stormkit-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
@@ -84,6 +84,7 @@
     "timeMonth": 444,
     "timeYear": 453,
     "dailyMinutesDown": {
+      "2021-08-13": 0,
       "2021-07-30": 13,
       "2021-07-13": 36
     }
