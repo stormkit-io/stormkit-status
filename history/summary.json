@@ -72,18 +72,19 @@
     "url": "https://api.stormkit.io",
     "icon": "https://favicons.githubusercontent.com/api.stormkit.io",
     "slug": "stormkit-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 452,
-    "timeDay": 414,
+    "timeDay": 418,
     "timeWeek": 441,
     "timeMonth": 442,
     "timeYear": 452,
     "dailyMinutesDown": {
+      "2022-01-19": 0,
       "2022-01-18": 17,
       "2021-07-13": 36
     }
