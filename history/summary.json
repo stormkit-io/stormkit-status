@@ -4,18 +4,20 @@
     "url": "https://www.stormkit.io/",
     "icon": "https://favicons.githubusercontent.com/www.stormkit.io",
     "slug": "stormkit-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
+    "time": 716,
     "timeDay": 867,
     "timeWeek": 694,
     "timeMonth": 701,
     "timeYear": 685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-02": 0
+    }
   },
   {
     "name": "Stormkit Docs",
