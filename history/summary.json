@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 689,
-    "timeDay": 870,
-    "timeWeek": 687,
-    "timeMonth": 666,
-    "timeYear": 698,
+    "timeDay": 878,
+    "timeWeek": 707,
+    "timeMonth": 677,
+    "timeYear": 699,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 407,
-    "timeWeek": 313,
-    "timeMonth": 296,
-    "timeYear": 280,
+    "time": 267,
+    "timeDay": 373,
+    "timeWeek": 321,
+    "timeMonth": 301,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 665,
-    "timeWeek": 530,
-    "timeMonth": 595,
-    "timeYear": 519,
+    "time": 495,
+    "timeDay": 745,
+    "timeWeek": 556,
+    "timeMonth": 603,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2022-07-08": 17
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.93%",
-    "time": 552,
-    "timeDay": 714,
-    "timeWeek": 496,
-    "timeMonth": 1053,
-    "timeYear": 580,
+    "time": 553,
+    "timeDay": 660,
+    "timeWeek": 520,
+    "timeMonth": 1056,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2022-12-07": 121,
       "2022-11-27": 70,
@@ -80,5 +80,23 @@
       "2022-01-19": 83,
       "2022-01-18": 17
     }
+  },
+  {
+    "name": "Stormkit Api Canary",
+    "url": "https://api.stormkit.io/?sk_canary=true",
+    "icon": "https://icons.duckduckgo.com/ip3/api.stormkit.io.ico",
+    "slug": "stormkit-api-canary",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
