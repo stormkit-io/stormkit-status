@@ -4,19 +4,19 @@
     "url": "https://www.stormkit.io/",
     "icon": "https://icons.duckduckgo.com/ip3/www.stormkit.io.ico",
     "slug": "stormkit-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 690,
-    "timeDay": 705,
-    "timeWeek": 740,
-    "timeMonth": 715,
+    "timeDay": 649,
+    "timeWeek": 718,
+    "timeMonth": 710,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-01-13": 102
+      "2023-01-13": 117
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "stormkit-docs",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 272,
     "timeDay": 565,
@@ -36,7 +36,7 @@
     "timeMonth": 334,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2023-01-13": 101
+      "2023-01-13": 88
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "stormkit-application",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "93.07%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "93.94%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 506,
     "timeDay": 630,
@@ -56,7 +56,7 @@
     "timeMonth": 641,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2023-01-13": 100,
+      "2023-01-13": 87,
       "2022-07-08": 17
     }
   },
