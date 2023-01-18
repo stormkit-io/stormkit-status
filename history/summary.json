@@ -11,10 +11,10 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 690,
-    "timeDay": 592,
-    "timeWeek": 699,
-    "timeMonth": 714,
-    "timeYear": 700,
+    "timeDay": 750,
+    "timeWeek": 685,
+    "timeMonth": 715,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2023-01-13": 117
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 272,
-    "timeDay": 265,
-    "timeWeek": 401,
-    "timeMonth": 332,
+    "timeDay": 324,
+    "timeWeek": 393,
+    "timeMonth": 333,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2023-01-13": 88
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
-    "time": 507,
-    "timeDay": 449,
-    "timeWeek": 582,
+    "time": 508,
+    "timeDay": 583,
+    "timeWeek": 566,
     "timeMonth": 642,
-    "timeYear": 535,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2023-01-13": 87,
       "2022-07-08": 17
@@ -66,16 +66,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.stormkit.io.ico",
     "slug": "stormkit-api",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.89%",
     "time": 557,
-    "timeDay": 414,
-    "timeWeek": 503,
-    "timeMonth": 786,
-    "timeYear": 610,
+    "timeDay": 557,
+    "timeWeek": 488,
+    "timeMonth": 787,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2023-01-07": 145,
       "2022-12-25": 15,
@@ -85,8 +85,7 @@
       "2022-11-07": 20,
       "2022-03-24": 42,
       "2022-01-21": 17,
-      "2022-01-19": 83,
-      "2022-01-18": 17
+      "2022-01-19": 83
     }
   },
   {
@@ -101,8 +100,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 97,
-    "timeWeek": 121,
+    "timeDay": 126,
+    "timeWeek": 116,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {}
