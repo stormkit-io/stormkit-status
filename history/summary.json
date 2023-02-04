@@ -94,17 +94,19 @@
     "url": "https://api.stormkit.io/?sk_canary=true",
     "icon": "https://icons.duckduckgo.com/ip3/api.stormkit.io.ico",
     "slug": "stormkit-api-canary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 98,
-    "timeWeek": 136,
-    "timeMonth": 122,
-    "timeYear": 121,
-    "dailyMinutesDown": {}
+    "time": 120,
+    "timeDay": 95,
+    "timeWeek": 131,
+    "timeMonth": 121,
+    "timeYear": 120,
+    "dailyMinutesDown": {
+      "2023-02-04": 0
+    }
   }
 ]
