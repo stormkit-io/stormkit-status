@@ -11,8 +11,8 @@ sites:
     url: https://app.stormkit.io
   - name: Stormkit API
     url: https://api.stormkit.io
-  - name: Stormkit Api Canary
-    url: https://api.stormkit.io/?sk_canary=true
+  # - name: Stormkit Api Canary
+  #   url: https://api.stormkit.io/?sk_canary=true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
