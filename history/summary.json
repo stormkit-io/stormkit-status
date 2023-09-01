@@ -10,9 +10,9 @@
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.63%",
-    "time": 769,
-    "timeDay": 589,
-    "timeWeek": 661,
+    "time": 770,
+    "timeDay": 624,
+    "timeWeek": 667,
     "timeMonth": 703,
     "timeYear": 801,
     "dailyMinutesDown": {
@@ -49,9 +49,9 @@
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.64%",
-    "time": 301,
-    "timeDay": 249,
-    "timeWeek": 287,
+    "time": 302,
+    "timeDay": 264,
+    "timeWeek": 289,
     "timeMonth": 303,
     "timeYear": 312,
     "dailyMinutesDown": {
@@ -87,9 +87,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
     "time": 567,
-    "timeDay": 587,
-    "timeWeek": 589,
-    "timeMonth": 596,
+    "timeDay": 605,
+    "timeWeek": 595,
+    "timeMonth": 597,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2023-09-01": 43,
@@ -116,9 +116,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.85%",
     "time": 621,
-    "timeDay": 488,
-    "timeWeek": 542,
-    "timeMonth": 544,
+    "timeDay": 529,
+    "timeWeek": 552,
+    "timeMonth": 547,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2023-09-01": 44,
@@ -133,30 +133,6 @@
       "2022-12-07": 121,
       "2022-11-27": 70,
       "2022-11-07": 20
-    }
-  },
-  {
-    "name": "Stormkit Api Canary",
-    "url": "https://api.stormkit.io/?sk_canary=true",
-    "icon": "https://icons.duckduckgo.com/ip3/api.stormkit.io.ico",
-    "slug": "stormkit-api-canary",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "80.18%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.71%",
-    "time": 121,
-    "timeDay": 113,
-    "timeWeek": 115,
-    "timeMonth": 116,
-    "timeYear": 121,
-    "dailyMinutesDown": {
-      "2023-09-01": 285,
-      "2023-08-11": 42,
-      "2023-02-23": 20,
-      "2023-02-05": 633,
-      "2023-02-04": 99
     }
   }
 ]
