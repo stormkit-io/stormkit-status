@@ -5,12 +5,24 @@ repo: stormkit-status # The name of this repository
 sites:
   - name: Stormkit Landing Page
     url: https://www.stormkit.io/
+    maxResponseTime: 3000
+    delay: 2000
+
   - name: Stormkit Docs
     url: https://www.stormkit.io/docs
+    maxResponseTime: 5000
+    delay: 2000
+
   - name: Stormkit Application
     url: https://app.stormkit.io
+    maxResponseTime: 3000
+    delay: 2000
+
   - name: Stormkit API
     url: https://api.stormkit.io
+    maxResponseTime: 3000
+    delay: 2000
+
   # - name: Stormkit Api Canary
   #   url: https://api.stormkit.io/?sk_canary=true
 
