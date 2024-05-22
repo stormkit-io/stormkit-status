@@ -11,10 +11,10 @@
     "uptimeMonth": "89.96%",
     "uptimeYear": "97.83%",
     "time": 835,
-    "timeDay": 682,
-    "timeWeek": 825,
-    "timeMonth": 894,
-    "timeYear": 877,
+    "timeDay": 733,
+    "timeWeek": 814,
+    "timeMonth": 891,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2024-05-13": 503,
       "2024-05-12": 1440,
@@ -36,8 +36,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 867,
-      "2023-05-30": 17,
-      "2023-05-23": 16
+      "2023-05-30": 17
     }
   },
   {
@@ -46,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.stormkit.io.ico",
     "slug": "stormkit-docs",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.97%",
     "uptimeYear": "97.84%",
     "time": 294,
-    "timeDay": 248,
-    "timeWeek": 278,
-    "timeMonth": 284,
+    "timeDay": 180,
+    "timeWeek": 242,
+    "timeMonth": 283,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2024-05-13": 503,
@@ -75,8 +74,7 @@
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
-      "2023-06-01": 867,
-      "2023-05-23": 16
+      "2023-06-01": 867
     }
   },
   {
@@ -87,13 +85,13 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "90.05%",
     "uptimeYear": "99.10%",
     "time": 612,
-    "timeDay": 542,
-    "timeWeek": 644,
-    "timeMonth": 649,
+    "timeDay": 571,
+    "timeWeek": 617,
+    "timeMonth": 646,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2024-05-14": 19,
@@ -123,8 +121,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 601,
-    "timeDay": 554,
-    "timeWeek": 578,
+    "timeDay": 500,
+    "timeWeek": 570,
     "timeMonth": 566,
     "timeYear": 600,
     "dailyMinutesDown": {
