@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
     "time": 861,
-    "timeDay": 723,
-    "timeWeek": 850,
-    "timeMonth": 877,
-    "timeYear": 834,
+    "timeDay": 1082,
+    "timeWeek": 864,
+    "timeMonth": 883,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2024-07-30": 17,
       "2024-07-25": 49,
@@ -31,8 +31,7 @@
       "2023-12-28": 16,
       "2023-12-15": 17,
       "2023-10-14": 16,
-      "2023-09-21": 45,
-      "2023-09-02": 31
+      "2023-09-21": 45
     }
   },
   {
@@ -41,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.stormkit.io.ico",
     "slug": "stormkit-docs",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.10%",
     "time": 283,
-    "timeDay": 176,
-    "timeWeek": 236,
-    "timeMonth": 257,
+    "timeDay": 316,
+    "timeWeek": 235,
+    "timeMonth": 259,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2024-07-30": 17,
@@ -65,8 +64,7 @@
       "2024-05-10": 1012,
       "2023-12-28": 15,
       "2023-12-15": 17,
-      "2023-09-21": 44,
-      "2023-09-02": 16
+      "2023-09-21": 44
     }
   },
   {
@@ -81,9 +79,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.09%",
     "time": 610,
-    "timeDay": 561,
-    "timeWeek": 650,
-    "timeMonth": 619,
+    "timeDay": 693,
+    "timeWeek": 646,
+    "timeMonth": 624,
     "timeYear": 610,
     "dailyMinutesDown": {
       "2024-08-14": 16,
@@ -120,9 +118,9 @@
     "uptimeMonth": "97.78%",
     "uptimeYear": "99.80%",
     "time": 596,
-    "timeDay": 573,
-    "timeWeek": 629,
-    "timeMonth": 613,
+    "timeDay": 688,
+    "timeWeek": 632,
+    "timeMonth": 614,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2024-08-10": 873,
