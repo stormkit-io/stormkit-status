@@ -1,7 +1,7 @@
 url: https://app.stormkit.io
-status: up
+status: degraded
 code: 200
-responseTime: 928
-lastUpdated: 2026-01-16T23:03:04.463Z
+responseTime: 13055
+lastUpdated: 2026-01-17T20:36:52.005Z
 startTime: 2021-04-21T21:28:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
